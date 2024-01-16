@@ -1,0 +1,1 @@
+This a simple image background removal method , using python imaging library and rembg library , although the application of these libraries is available in offline mode only , though this can be helpful for day to day usage 
